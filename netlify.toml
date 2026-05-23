@@ -1,3 +1,3 @@
 [build]
-  command = "curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb && dpkg -x quarto-linux-amd64.deb quarto && ./quarto/opt/quarto/bin/quarto render"
+  command = "curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb && rm -rf /tmp/quarto && mkdir -p /tmp/quarto && dpkg -x quarto-linux-amd64.deb /tmp/quarto && /tmp/quarto/opt/quarto/bin/quarto render"
   publish = "_site"
