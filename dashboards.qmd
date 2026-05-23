@@ -18,7 +18,7 @@ Daho Wealth provides live financial and economic dashboards powered through auto
 
 Live monitoring of BRVM, NGX, and U.S. market activity.
 
-[Open Dashboard](http://32.192.35.243:8000/market){.btn .btn-primary}
+[Open Dashboard](http://dashboard.dahowealth.com/market){.btn .btn-primary}
 
 </div>
 

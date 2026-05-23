@@ -14,7 +14,7 @@ format:
 padding: 50px;
 border-radius: 18px;
 background:
-linear-gradient(135deg, rgba(37,99,235,0.18), rgba(14,165,233,0.12));
+linear-gradient(135deg, rgba(28, 126, 218, 0.18), rgba(14,165,233,0.12));
 border: 1px solid rgba(255,255,255,0.08);
 margin-bottom: 40px;
 ">
@@ -32,7 +32,7 @@ Financial markets, economic intelligence, and data-driven insights for Africa an
 </p>
 
 <div style="margin-top:30px;">
-<a href="http://32.192.35.243:8000/market"
+<a href="http://dashboard.dahowealth.com/market"
 target="_blank"
 class="btn btn-primary btn-lg">
 📊 Open Live Market Dashboard
