@@ -1,0 +1,67 @@
+---
+title: "Dashboards"
+---
+
+# 📊 Live Dashboards
+
+<div class="glass-card">
+
+Daho Wealth provides live financial and economic dashboards powered through automated market data pipelines and cloud infrastructure.
+
+</div>
+
+<div class="feature-grid">
+
+<div class="metric-card">
+
+## 🌍 Multi-Market Dashboard
+
+Live monitoring of BRVM, NGX, and U.S. market activity.
+
+[Open Dashboard](http://32.192.35.243:8000/market){.btn .btn-primary}
+
+</div>
+
+<div class="metric-card">
+
+## 📈 BRVM Analytics
+
+Historical BRVM pricing, volume, and regional market analysis.
+
+</div>
+
+<div class="metric-card">
+
+## 🇳🇬 NGX Market Intelligence
+
+Nigerian market tracking with live SQL-backed financial datasets.
+
+</div>
+
+<div class="metric-card">
+
+## 🌡️ Economic Intelligence
+
+Inflation, commodity pricing, and macroeconomic dashboards across African markets.
+
+</div>
+
+</div>
+
+<div class="site-footer">
+  <p>
+    © 2026 Daho Wealth • Financial & Economic Intelligence Platform
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/jpsossavi/" target="_blank">
+      LinkedIn
+    </a>
+
+    •
+
+    <a href="https://www.facebook.com/p/Daho-Wealth-61575871481173/" target="_blank">
+      Facebook
+    </a>
+  </p>
+</div>

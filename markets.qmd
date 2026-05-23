@@ -6,9 +6,9 @@ title: "Markets"
 
 <div class="glass-card">
 
-Daho Wealth tracks market activity across U.S. stocks, BRVM, and NGX Nigeria.
+Daho Wealth tracks market activity across U.S. stocks, BRVM, and NGX Nigeria through a live multi-market financial data platform.
 
-[Open Live Market Dashboard](http://32.192.35.243:8000/market){.btn .btn-primary}
+[Launch Live Market Dashboard](http://32.192.35.243:8000/market){.btn .btn-primary}
 
 </div>
 
@@ -38,19 +38,62 @@ Daily Nigerian market activity including prices, volume, and value traded.
 
 </div>
 
+<div class="metric-card">
+
+## 🌐 Future Expansion
+
+Upcoming coverage includes additional African exchanges, economic datasets, commodities, and macroeconomic indicators.
+
+</div>
+
 </div>
 
 ---
 
+<div class="glass-card">
+
 ## Dashboard Features
+
+- 📈 Top gainers and losers
+- 📊 Volume leaders
+- 💵 USD conversion
+- 📉 Historical charts
+- 🏢 Clickable stock pages
+- 🌍 Cross-market analysis
+
+</div>
 
 <div class="glass-card">
 
-- Top gainers and losers
-- Volume leaders
-- USD conversion
-- Historical charts
-- Clickable stock pages
-- Cross-market analysis
+## Integrated Market Infrastructure
 
+The Daho Wealth market platform combines:
+
+- ⚡ Automated market data ingestion
+- 🗄️ SQL-backed historical storage
+- 📊 Time-series visualization
+- 💵 Currency normalization
+- 🌐 Multi-exchange integration
+- 🏢 Company-level market intelligence
+
+This infrastructure is designed to support financial dashboards, research tools, and future investor education products.
+
+</div>
+
+<div class="site-footer">
+  <p>
+    © 2026 Daho Wealth • Financial & Economic Intelligence Platform
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/jpsossavi/" target="_blank">
+      LinkedIn
+    </a>
+
+    •
+
+    <a href="https://www.facebook.com/p/Daho-Wealth-61575871481173/" target="_blank">
+      Facebook
+    </a>
+  </p>
 </div>
