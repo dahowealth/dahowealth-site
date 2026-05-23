@@ -6,9 +6,7 @@ title: "Markets"
 
 <div class="glass-card">
 
-Daho Wealth tracks market activity across U.S. stocks, BRVM, and NGX Nigeria through a live multi-market financial data platform.
-
-[Launch Live Market Dashboard](http://32.192.35.243:8000/market){.btn .btn-primary}
+Daho Wealth tracks public equity markets across Africa and global exchanges, with a focus on making frontier and emerging market data easier to access, compare, and analyze.
 
 </div>
 
@@ -18,7 +16,7 @@ Daho Wealth tracks market activity across U.S. stocks, BRVM, and NGX Nigeria thr
 
 ## 🇺🇸 U.S. Stocks
 
-Track high-growth technology, AI, energy, healthcare, and strategic equity portfolios.
+Coverage of selected U.S. companies across technology, AI, energy, healthcare, consumer, and high-growth sectors.
 
 </div>
 
@@ -26,7 +24,7 @@ Track high-growth technology, AI, energy, healthcare, and strategic equity portf
 
 ## 🌍 BRVM / UEMOA
 
-Comprehensive coverage of Francophone West African equity markets.
+Regional equity coverage for Francophone West Africa, including listed companies across the BRVM market.
 
 </div>
 
@@ -34,7 +32,7 @@ Comprehensive coverage of Francophone West African equity markets.
 
 ## 🇳🇬 Nigerian Exchange
 
-Daily Nigerian market activity including prices, volume, and value traded.
+Tracking Nigerian listed equities with price, volume, value traded, and historical market activity.
 
 </div>
 
@@ -42,7 +40,7 @@ Daily Nigerian market activity including prices, volume, and value traded.
 
 ## 🌐 Future Expansion
 
-Upcoming coverage includes additional African exchanges, economic datasets, commodities, and macroeconomic indicators.
+Upcoming coverage includes additional African exchanges, commodities, macroeconomic indicators, and sector-level datasets.
 
 </div>
 
@@ -52,14 +50,17 @@ Upcoming coverage includes additional African exchanges, economic datasets, comm
 
 <div class="glass-card">
 
-## Dashboard Features
+## Market Data Coverage
 
-- 📈 Top gainers and losers
-- 📊 Volume leaders
-- 💵 USD conversion
-- 📉 Historical charts
-- 🏢 Clickable stock pages
-- 🌍 Cross-market analysis
+Daho Wealth organizes market data around:
+
+- 📈 Daily price movements
+- 📊 Trading volume
+- 💵 Value traded
+- 💱 Local currency and USD comparison
+- 🏢 Company-level market profiles
+- 📉 Historical price and volume trends
+- 🌍 Cross-market comparison across regions
 
 </div>
 
@@ -71,12 +72,12 @@ The Daho Wealth market platform combines:
 
 - ⚡ Automated market data ingestion
 - 🗄️ SQL-backed historical storage
-- 📊 Time-series visualization
+- 📊 Time-series analytics
 - 💵 Currency normalization
 - 🌐 Multi-exchange integration
 - 🏢 Company-level market intelligence
 
-This infrastructure is designed to support financial dashboards, research tools, and future investor education products.
+This infrastructure supports future dashboards, stock research, valuation tools, and investor education products.
 
 </div>
 

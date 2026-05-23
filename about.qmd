@@ -2,15 +2,23 @@
 title: "About"
 ---
 
-# About Daho Wealth
+# 🌍 About Daho Wealth
 
 <div class="glass-card">
 
+## Financial & Economic Intelligence for Africa and Global Markets
+
 Daho Wealth is a financial and economic intelligence platform focused on Africa, global markets, and the African diaspora.
 
-We are building tools that make stock market data, macroeconomic indicators, financial education, and investment research easier to access and understand.
+We are building tools and analytical platforms that make stock market data, macroeconomic indicators, financial education, and investment research more accessible, transparent, and actionable.
+
+Our long-term vision is to bridge critical financial and economic data gaps across emerging and frontier markets through technology, analytics, and education.
 
 </div>
+
+---
+
+## Platform Focus
 
 <div class="feature-grid">
 
@@ -18,7 +26,9 @@ We are building tools that make stock market data, macroeconomic indicators, fin
 
 ## 🌍 Africa-Focused
 
-We prioritize African markets, African data gaps, and opportunities across emerging economies.
+We prioritize African markets, regional economic intelligence, and opportunities across emerging economies.
+
+Coverage begins with Benin and West Africa and gradually expands across the continent.
 
 </div>
 
@@ -26,7 +36,14 @@ We prioritize African markets, African data gaps, and opportunities across emerg
 
 ## 📊 Data-Driven
 
-Our platform combines financial data, economic indicators, dashboards, and analytical tools.
+Our platform combines:
+
+- Financial market data
+- Economic indicators
+- Inflation tracking
+- Market dashboards
+- Company analysis
+- Quantitative research tools
 
 </div>
 
@@ -34,7 +51,13 @@ Our platform combines financial data, economic indicators, dashboards, and analy
 
 ## 🎯 Education First
 
-We make complex financial concepts easier for students, investors, entrepreneurs, and communities.
+We simplify complex financial and economic concepts for:
+
+- Students
+- Investors
+- Entrepreneurs
+- Researchers
+- The African diaspora
 
 </div>
 
@@ -46,6 +69,45 @@ We make complex financial concepts easier for students, investors, entrepreneurs
 
 <div class="glass-card">
 
-Our mission is to make institutional-grade financial education, stock market analytics, and economic intelligence accessible, transparent, and actionable for Africans, the diaspora, and emerging-market investors worldwide.
+Our mission is to make institutional-grade financial education, stock market analytics, and economic intelligence accessible to Africans, the diaspora, and emerging-market investors worldwide.
 
+We believe better access to financial information can unlock smarter investing, stronger businesses, and long-term economic empowerment.
+
+</div>
+
+---
+
+## Vision
+
+<div class="glass-card">
+
+Daho Wealth aims to become a leading African financial intelligence ecosystem combining:
+
+- Market analytics
+- Economic intelligence
+- Financial research
+- Educational tools
+- Investment technology
+- Data infrastructure
+
+for the next generation of African and global investors.
+
+</div>
+
+<div class="site-footer">
+  <p>
+    © 2026 Daho Wealth • Financial & Economic Intelligence Platform
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/jpsossavi/" target="_blank">
+      LinkedIn
+    </a>
+
+    •
+
+    <a href="https://www.facebook.com/p/Daho-Wealth-61575871481173/" target="_blank">
+      Facebook
+    </a>
+  </p>
 </div>

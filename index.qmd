@@ -41,35 +41,49 @@ class="btn btn-primary btn-lg">
 
 </div>
 
-# 💼 Daho Wealth
 
 ## Financial & Economic Intelligence for Africa and Global Markets
 
 Daho Wealth helps investors, students, entrepreneurs, researchers, and the African diaspora understand markets, analyze companies, track economic trends, and build long-term wealth.
 
-<div style="margin: 20px 0;">
-  <a href="http://32.192.35.243:8000/market"
-     target="_blank"
-     class="btn btn-primary btn-lg"
-     style="font-weight: bold; padding: 12px 28px; text-decoration: none; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
-     📊 Open Live Market Dashboard
-  </a>
+---
+
+<div class="glass-card">
+
+## What We Are Building
+
+- 📊 Live stock market dashboards
+- 🌍 African economic intelligence
+- 📈 Financial research and valuation
+- 🧮 Investment education tools
+- 🚀 Data-driven insights for emerging markets
+
 </div>
 
 ---
 
-## What We Are Building
-
-- Live stock market dashboards
-- African economic intelligence
-- Financial research and valuation
-- Investment education tools
-- Data-driven insights for emerging markets
-
----
+<div class="glass-card">
 
 ## Platform Focus
 
 Daho Wealth combines financial market data, macroeconomic indicators, stock research, and practical tools into one accessible intelligence platform.
 
-Initial coverage focuses on U.S. stocks, BRVM, NGX Nigeria, and Benin economic data, with expansion planned across Africa.
+</div>
+
+<div class="site-footer">
+  <p>
+    © 2026 Daho Wealth • Financial & Economic Intelligence Platform
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/jpsossavi/" target="_blank">
+      LinkedIn
+    </a>
+
+    •
+
+    <a href="https://www.facebook.com/p/Daho-Wealth-61575871481173/" target="_blank">
+      Facebook
+    </a>
+  </p>
+</div>

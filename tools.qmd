@@ -64,3 +64,20 @@ Planned tools and dashboards include:
 - Interactive market intelligence APIs
 
 </div>
+<div class="site-footer">
+  <p>
+    © 2026 Daho Wealth • Financial & Economic Intelligence Platform
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/jpsossavi/" target="_blank">
+      LinkedIn
+    </a>
+
+    •
+
+    <a href="https://www.facebook.com/p/Daho-Wealth-61575871481173/" target="_blank">
+      Facebook
+    </a>
+  </p>
+</div>

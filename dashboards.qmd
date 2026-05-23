@@ -26,7 +26,7 @@ Live monitoring of BRVM, NGX, and U.S. market activity.
 
 ## 📈 BRVM Analytics
 
-Historical BRVM pricing, volume, and regional market analysis.
+BRVM pricing, volume, and regional market analysis.
 
 </div>
 
