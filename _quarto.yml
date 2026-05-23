@@ -23,5 +23,5 @@ format:
   html:
     theme: cosmo
     toc: true
-    toc-depth: 2
+    toc-depth: false
     css: styles.css
