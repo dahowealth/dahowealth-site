@@ -1,0 +1,75 @@
+---
+title: "Daho Wealth"
+subtitle: "Financial & Economic Intelligence Platform"
+author: "Jean-Paul (JP) Sossavi"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    css: styles.css
+---
+<div style="
+padding: 50px;
+border-radius: 18px;
+background:
+linear-gradient(135deg, rgba(37,99,235,0.18), rgba(14,165,233,0.12));
+border: 1px solid rgba(255,255,255,0.08);
+margin-bottom: 40px;
+">
+
+<h1 style="font-size: 3.4rem; margin-bottom: 10px;">
+Daho Wealth
+</h1>
+
+<p style="
+font-size: 1.35rem;
+max-width: 850px;
+color: #cbd5e1;
+">
+Financial markets, economic intelligence, and data-driven insights for Africa and global markets.
+</p>
+
+<div style="margin-top:30px;">
+<a href="http://32.192.35.243:8000/market"
+target="_blank"
+class="btn btn-primary btn-lg">
+📊 Open Live Market Dashboard
+</a>
+</div>
+
+</div>
+
+# 💼 Daho Wealth
+
+## Financial & Economic Intelligence for Africa and Global Markets
+
+Daho Wealth helps investors, students, entrepreneurs, researchers, and the African diaspora understand markets, analyze companies, track economic trends, and build long-term wealth.
+
+<div style="margin: 20px 0;">
+  <a href="http://32.192.35.243:8000/market"
+     target="_blank"
+     class="btn btn-primary btn-lg"
+     style="font-weight: bold; padding: 12px 28px; text-decoration: none; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
+     📊 Open Live Market Dashboard
+  </a>
+</div>
+
+---
+
+## What We Are Building
+
+- Live stock market dashboards
+- African economic intelligence
+- Financial research and valuation
+- Investment education tools
+- Data-driven insights for emerging markets
+
+---
+
+## Platform Focus
+
+Daho Wealth combines financial market data, macroeconomic indicators, stock research, and practical tools into one accessible intelligence platform.
+
+Initial coverage focuses on U.S. stocks, BRVM, NGX Nigeria, and Benin economic data, with expansion planned across Africa.

@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Daho Wealth"
+  navbar:
+    background: dark
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Markets"
+        href: markets.qmd
+      - text: "Economic Intelligence"
+        href: economic-intelligence.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Tools"
+        href: tools.qmd
+      - text: "About"
+        href: about.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    css: styles.css

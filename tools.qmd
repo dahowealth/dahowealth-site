@@ -1,0 +1,66 @@
+---
+title: "Tools"
+---
+
+# 🧮 Financial Engineering Tools
+
+<div class="glass-card">
+
+Daho Wealth develops interactive financial and economic tools designed to help users understand investing, inflation, valuation, and long-term wealth creation.
+
+</div>
+
+<div class="feature-grid">
+
+<div class="metric-card">
+
+## 📈 Compound Interest Calculator
+
+Model investment growth, savings accumulation, and long-term portfolio expansion over time.
+
+</div>
+
+<div class="metric-card">
+
+## 💱 Currency Conversion Tools
+
+Compare African currencies against USD and evaluate purchasing power changes across markets.
+
+</div>
+
+<div class="metric-card">
+
+## 📊 Valuation Tools
+
+Analyze companies using ratios, discounted cash flow methods, and financial statement metrics.
+
+</div>
+
+<div class="metric-card">
+
+## 🌍 Inflation & Cost-of-Living Dashboards
+
+Track inflation impact, commodity pricing, and purchasing power trends across African economies.
+
+</div>
+
+</div>
+
+---
+
+## Future Platform Features
+
+<div class="glass-card">
+
+Planned tools and dashboards include:
+
+- Reverse compound interest calculators
+- Portfolio allocation dashboards
+- BRVM and NGX stock screeners
+- Inflation heatmaps
+- Market volatility indicators
+- Economic comparison dashboards
+- Financial ratio explainers
+- Interactive market intelligence APIs
+
+</div>

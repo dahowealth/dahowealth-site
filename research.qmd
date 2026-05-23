@@ -1,0 +1,59 @@
+---
+title: "Research"
+---
+
+# 📈 Research & Analysis
+
+<div class="glass-card">
+
+Daho Wealth publishes financial research, market analysis, company breakdowns, and valuation insights focused on African and global markets.
+
+Our research combines financial statements, market data, macroeconomic trends, and practical investment education.
+
+</div>
+
+<div class="feature-grid">
+
+<div class="metric-card">
+
+## 🏢 Company Analysis
+
+Financial statement breakdowns, revenue trends, balance sheet quality, profitability, and cash flow analysis.
+
+</div>
+
+<div class="metric-card">
+
+## 📊 Valuation
+
+DCF models, ratio comparisons, dividend analysis, market multiples, and intrinsic value estimates.
+
+</div>
+
+<div class="metric-card">
+
+## 🌍 Market Commentary
+
+Insights on BRVM, NGX, U.S. growth stocks, inflation, currency movements, and African capital markets.
+
+</div>
+
+</div>
+
+---
+
+## Research Focus
+
+<div class="glass-card">
+
+Upcoming research areas include:
+
+- BRVM company profiles
+- NGX equity analysis
+- U.S. growth stock tracking
+- African inflation reports
+- Sector dashboards
+- Financial education articles
+- Valuation case studies
+
+</div>

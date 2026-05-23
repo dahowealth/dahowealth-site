@@ -1,0 +1,69 @@
+---
+title: "Economic Intelligence"
+---
+
+# 🌍 African Economic Intelligence
+
+<div class="glass-card">
+
+Daho Wealth tracks economic indicators that directly affect households, businesses, investors, and policymakers across Africa.
+
+Our goal is to bridge data gaps across emerging and frontier economies through localized, accessible, and data-driven economic intelligence.
+
+</div>
+
+<div class="feature-grid">
+
+<div class="metric-card">
+
+## 🥖 Inflation & Food Prices
+
+Track inflation trends, consumer prices, and retail marketplace fluctuations across African cities and regions.
+
+</div>
+
+<div class="metric-card">
+
+## 💱 Exchange Rates
+
+Monitor local currency movements, exchange-rate pressure, and hard-currency comparisons across African markets.
+
+</div>
+
+<div class="metric-card">
+
+## 📊 GDP & Macroeconomics
+
+Analyze GDP growth, purchasing power, commodity exposure, and regional economic performance indicators.
+
+</div>
+
+<div class="metric-card">
+
+## ⛽ Commodity Intelligence
+
+Track fuel prices, agricultural commodities, transportation costs, and energy-related market variables.
+
+</div>
+
+</div>
+
+---
+
+## Initial Coverage
+
+<div class="glass-card">
+
+The first datasets begin with Benin and West Africa, with future expansion planned across broader African markets.
+
+Future dashboards will include:
+
+- Inflation heatmaps
+- Food price volatility
+- Cost-of-living analysis
+- Regional economic comparisons
+- Consumer purchasing power indexes
+- Commodity trend tracking
+- Economic visualization dashboards
+
+</div>

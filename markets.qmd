@@ -1,0 +1,56 @@
+---
+title: "Markets"
+---
+
+# 📊 Market Intelligence
+
+<div class="glass-card">
+
+Daho Wealth tracks market activity across U.S. stocks, BRVM, and NGX Nigeria.
+
+[Open Live Market Dashboard](http://32.192.35.243:8000/market){.btn .btn-primary}
+
+</div>
+
+<div class="feature-grid">
+
+<div class="metric-card">
+
+## 🇺🇸 U.S. Stocks
+
+Track high-growth technology, AI, energy, healthcare, and strategic equity portfolios.
+
+</div>
+
+<div class="metric-card">
+
+## 🌍 BRVM / UEMOA
+
+Comprehensive coverage of Francophone West African equity markets.
+
+</div>
+
+<div class="metric-card">
+
+## 🇳🇬 Nigerian Exchange
+
+Daily Nigerian market activity including prices, volume, and value traded.
+
+</div>
+
+</div>
+
+---
+
+## Dashboard Features
+
+<div class="glass-card">
+
+- Top gainers and losers
+- Volume leaders
+- USD conversion
+- Historical charts
+- Clickable stock pages
+- Cross-market analysis
+
+</div>
