@@ -18,7 +18,16 @@ Our goal is to bridge data gaps across emerging and frontier economies through l
 
 ## 🥖 Inflation & Food Prices
 
+
+<div class="metric-card">
+
+## 🥖 Inflation & Food Prices
+
 Track inflation trends, consumer prices, and retail marketplace fluctuations across African cities and regions.
+
+[Open Food Price Dashboard](https://dashboard.dahowealth.com/economy){.btn .btn-primary target="_blank"}
+
+</div>
 
 </div>
 
