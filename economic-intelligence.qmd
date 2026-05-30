@@ -28,9 +28,21 @@ Track inflation trends, consumer prices, and retail marketplace fluctuations acr
 
 <div class="metric-card">
 
-## 💱 Exchange Rates
+## 💱 Foreign Exchange Matrix & Forex Trends 
 
-Monitor local currency movements, exchange-rate pressure, and hard-currency comparisons across African markets.
+Live foreign exchange intelligence tracking major African currencies against global benchmarks and reserve currencies.
+
+### Key Features
+
+* **Cross-Regional FX Matrix** — Monitor the West African CFA Franc (UEMOA), Central African CFA Franc (CEMAC), Nigerian Naira, Ghanaian Cedi, Kenyan Shilling, South African Rand, and Euro from a single dashboard.
+
+* **Performance Analytics** — Analyze 1-Year currency performance, exchange-rate trends, and relative movements against the U.S. Dollar with continuously updated market data.
+
+* **Interactive FX Explorer** — Access historical exchange-rate charts, currency-specific market profiles, regional intelligence, and dynamic conversion tools for major African currencies.
+
+* **Currency Intelligence Profiles** — Explore currency regions, monetary unions, participating countries, and exchange-rate behavior across Africa's largest economies.
+
+[Launch Forex Hub](https://dashboard.dahowealth.com/fx){.btn .btn-primary target="_blank"}
 
 </div>
 
