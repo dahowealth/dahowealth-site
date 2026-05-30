@@ -28,12 +28,6 @@ Interactive market intelligence platform for analyzing consumer prices, inflatio
 
 [Launch Full Explorer](https://5ff85h-oscens0jp0sossavi.shinyapps.io/benin-inflation-explorer/){.btn .btn-primary target="_blank"}
 
-<iframe
-  src="https://5ff85h-oscens0jp0sossavi.shinyapps.io/benin-inflation-explorer/"
-  width="100%"
-  height="1200"
-  style="border:0; border-radius:16px; margin-top:20px;">
-</iframe>
 
 </div>
 
