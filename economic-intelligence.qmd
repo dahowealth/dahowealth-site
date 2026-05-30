@@ -6,9 +6,7 @@ title: "Economic Intelligence"
 
 <div class="glass-card">
 
-Daho Wealth tracks economic indicators that directly affect households, businesses, investors, and policymakers across Africa.
-
-Our goal is to bridge data gaps across emerging and frontier economies through localized, accessible, and data-driven economic intelligence.
+Daho Wealth provides data-driven economic intelligence for Africa's emerging markets, helping households, businesses, investors, researchers, and policymakers monitor inflation, consumer prices, exchange rates, and market conditions.
 
 </div>
 
@@ -16,71 +14,86 @@ Our goal is to bridge data gaps across emerging and frontier economies through l
 
 <div class="metric-card">
 
-## 🥖 Inflation & Food Prices
+## 🛒 Basket of Goods & Inflation Explorer
 
-Track inflation trends, consumer prices, and retail marketplace fluctuations across African cities and regions.
+Interactive market intelligence platform for analyzing consumer prices, inflation trends, city comparisons, and historical market movements.
+
+**Features**
+- Price Trends
+- Inflation Rankings
+- City Comparisons
+- Historical Data
+- Data Export
+- Forecasting
+
+[Launch Full Explorer](https://5ff85h-oscens0jp0sossavi.shinyapps.io/benin-inflation-explorer/){.btn .btn-primary target="_blank"}
+
+<iframe
+  src="https://5ff85h-oscens0jp0sossavi.shinyapps.io/benin-inflation-explorer/"
+  width="100%"
+  height="1200"
+  style="border:0; border-radius:16px; margin-top:20px;">
+</iframe>
+
+</div>
+
+<div class="metric-card">
+
+## 🥖 Food Price Dashboard
+
+Executive dashboard providing quick visibility into food price movements, inflation indicators, and market conditions.
 
 [Open Food Price Dashboard](https://dashboard.dahowealth.com/economy){.btn .btn-primary target="_blank"}
 
 </div>
 
-</div>
-
 <div class="metric-card">
 
-## 💱 Foreign Exchange Matrix & Forex Trends 
+## 💱 Forex Hub
 
-Live foreign exchange intelligence tracking major African currencies against global benchmarks and reserve currencies.
-
-### Key Features
-
-* **Cross-Regional FX Matrix** — Monitor the West African CFA Franc (UEMOA), Central African CFA Franc (CEMAC), Nigerian Naira, Ghanaian Cedi, Kenyan Shilling, South African Rand, and Euro from a single dashboard.
-
-* **Performance Analytics** — Analyze 1-Year currency performance, exchange-rate trends, and relative movements against the U.S. Dollar with continuously updated market data.
-
-* **Interactive FX Explorer** — Access historical exchange-rate charts, currency-specific market profiles, regional intelligence, and dynamic conversion tools for major African currencies.
-
-* **Currency Intelligence Profiles** — Explore currency regions, monetary unions, participating countries, and exchange-rate behavior across Africa's largest economies.
+Monitor African currencies, exchange-rate trends, currency performance, and conversion tools.
 
 [Launch Forex Hub](https://dashboard.dahowealth.com/fx){.btn .btn-primary target="_blank"}
 
 </div>
 
-<div class="metric-card">
-
-## 📊 GDP & Macroeconomics
-
-Analyze GDP growth, purchasing power, commodity exposure, and regional economic performance indicators.
-
 </div>
 
-<div class="metric-card">
-
-## ⛽ Commodity Intelligence
-
-Track fuel prices, agricultural commodities, transportation costs, and energy-related market variables.
-
-</div>
-
-</div>
 
 ---
 
 <div class="glass-card">
 
-## Initial Coverage
+## 🌐 Regional Coverage
 
-The first datasets begin with Benin and West Africa, with future expansion planned across broader African markets.
+### Active Coverage
 
-Future dashboards will include:
+🇧🇯 Benin  
+🇳🇪 Niger  
+🇳🇬 Nigeria
 
-- 🌡️ Inflation heatmaps
-- 🥖 Food price volatility
-- 🏙️ Cost-of-living analysis
-- 🌍 Regional economic comparisons
-- 💵 Consumer purchasing power indexes
-- ⛽ Commodity trend tracking
-- 📊 Economic visualization dashboards
+### Expansion Roadmap
+
+🇧🇫 Burkina Faso  
+🇨🇻 Cabo Verde  
+🇨🇮 Côte d'Ivoire  
+🇬🇲 Gambia  
+🇬🇭 Ghana  
+🇬🇳 Guinea  
+🇬🇼 Guinea-Bissau  
+🇱🇷 Liberia  
+🇲🇱 Mali  
+🇸🇳 Senegal  
+🇸🇱 Sierra Leone  
+🇹🇬 Togo
+
+Future releases will include:
+
+- Country Economic Profiles
+- Inflation Heat Maps
+- Cost of Living Indexes
+- Commodity Intelligence
+- Regional Economic Dashboards
 
 </div>
 
