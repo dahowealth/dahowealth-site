@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Daho Wealth"
+  site-url: "https://dahowealth.com"
   navbar:
     background: dark
     left:
@@ -26,3 +27,5 @@ format:
     theme: cosmo
     toc: false
     css: styles.css
+execute:
+  error: true
